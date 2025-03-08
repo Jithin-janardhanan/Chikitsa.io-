@@ -2,9 +2,7 @@
 
 A new Flutter project.
 
-![Alt Text](image.jpeg)
-
-![image alt](https://example.com/image.jpg](https://github.com/Jithin-janardhanan/Chikitsa.io-/blob/main/1.jpg?raw=true
+![Alt text](https://github.com/Jithin-janardhanan/Chikitsa.io-/blob/main/2.jpg?raw=true
 )
 
 
