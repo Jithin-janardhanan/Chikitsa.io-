@@ -1,8 +1,8 @@
 # adhicine
 
 A new Flutter project.
-![Alt text](https://github.com/Jithin-janardhanan/Chikitsa.io-/blob/main/1.jpg?raw=true
-)
+<img src="[image.png](https://github.com/Jithin-janardhanan/Chikitsa.io-/blob/main/1.jpg?raw=true
+)" width="300" alt="Alt text">
 
 ![Alt text](https://github.com/Jithin-janardhanan/Chikitsa.io-/blob/main/2.jpg?raw=true
 )
