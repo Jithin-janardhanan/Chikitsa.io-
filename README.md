@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+![Alt Text](image.jpeg)
+
+![Alt Text]([https://example.com/image.jpg](https://github.com/Jithin-janardhanan/Chikitsa.io-/blob/main/1.jpg?raw=true
+)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
