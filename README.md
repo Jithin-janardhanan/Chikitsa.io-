@@ -4,7 +4,7 @@ A new Flutter project.
 
 ![Alt Text](image.jpeg)
 
-![Alt Text]([https://example.com/image.jpg](https://github.com/Jithin-janardhanan/Chikitsa.io-/blob/main/1.jpg?raw=true
+![image alt](https://example.com/image.jpg](https://github.com/Jithin-janardhanan/Chikitsa.io-/blob/main/1.jpg?raw=true
 )
 
 
